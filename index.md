@@ -4,7 +4,9 @@
 ![This is an image of UCSD](https://ucsdnews.ucsd.edu/news_uploads/1280x800_210310-Rainbow7DSC_8071-UCSanDiego-ErikJepsen-1.jpg)
 **Bold Text**
 *Italic Text*
+>
 > Quote Text.
+> 
 Moving on to links.
 The second push was for 'part2'
 This is [Lab1](https://github.com/j1morale/CSE110_Lab1)
